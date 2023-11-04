@@ -1,15 +1,15 @@
-import React, { useContext, useRef } from 'react'
+import React, { useRef } from 'react'
 import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Container from 'react-bootstrap/esm/Container';
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
-import { ShopContext } from '../../Context/ShopContext';
+
 
 const AdminLogin = () => {
 
-    const {admin,setAdmin}=useContext(ShopContext)
+    
     const naviagate=useNavigate()
     
     const adminName=useRef()

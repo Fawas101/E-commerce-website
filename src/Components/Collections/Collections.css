@@ -1,69 +1,7 @@
-.collections-banner{
-    display: block;
-    margin: 30px auto;
-    width: 65%;
-}
-.collections-indexSort{
-    display: flex;
-    margin: 0px 170px;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: 350px;
-}
-.collections-indexSort p span{
-    font-weight: 600;
-}
-.collections-products{
-    margin: 20px 90px;
-    display: grid;
-    grid-template-columns:1fr 1fr 1fr ;
-    margin-left: 380px;
-}
-.collections-loadmore{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 150px auto;
-    width: 233px;
-    height: 69px;
-    border-radius: 75px;
-    background: #ededed;
-    color: #787878;
-    font-size: 18px;
-    font-weight: 500;
-    
-}
-.sidebar{
-    width: 15%;
-    position: fixed;
-    height: 70%;
-    border-right: 2px solid #e5e5e5;
-    z-index: 3;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.logo-container{
-    margin-top: 2rem;
-}
-.logo-container img{
-    margin-top: 1.3rem;
-} 
-.searchInput_Container{
-margin-left: 400px;
-padding-top: 60px;
-padding-bottom: 50px;
 
-}
-
-.searchInput_Container input{
-    width: 800px;
-    height: 50px;
-    border: 3px solid black;
-    border-radius: 50px;
-}
 .template_Container{
     margin: 20px 90px;
+    margin-top: 150PX;
     display: grid;
     grid-template-columns:1fr 1fr 1fr 1fr;
     margin-left:100px;   

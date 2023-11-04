@@ -35,7 +35,7 @@ const PorductList = () => {
               <td>{item.id}</td>
               <td>{item.name}</td>
               <td>{item.new_price}</td>
-              <td><img style={{height:'4rem', width:'4rem'}} src={item.image} /></td>
+              <td><img style={{height:'4rem', width:'4rem'}} src={item.image} alt='pic' /></td>
               <td>{item.category}</td>
               <td ><Button style={{backgroundColor:'black',border:'none'}} className='m-2' onClick={()=>nvgt(`/edit/${item.id}`)}>Edit</Button>
               <Button  style={{backgroundColor:'black',border:'none'}} onClick={()=>removeitem(item.id)}>Delete</Button></td>

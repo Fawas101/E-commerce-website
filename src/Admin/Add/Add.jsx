@@ -48,13 +48,12 @@ return (
         <h1 style={{fontFamily:'sans-serif',padding:'10px',position:'relative',top:'30px',color:'#333', fontWeight:'600'}}>Add Product</h1><br /><hr/>
           <Form style={{padding:'130px'}}>
             <label  style={{fontSize:'20px',fontFamily:'italic'}} >Product Name</label><br />
-            <input className='shadow' style={{height:'55px', width:'500px',border:'none',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='name' value={newProduct.name} onChange={Change} required/> <br /><br />   
+            <input className='shadow' style={{height:'55px', width:'500px',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='name' value={newProduct.name} onChange={Change} required/> <br /><br />   
             <label  style={{fontSize:'20px',fontFamily:'italic'}} >Product Price</label><br />
-            <input className='shadow' style={{height:'55px',width:'500px',border:'none',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='new_price' value={newProduct.new_price}  onChange={Change}/><br /><br />
+            <input className='shadow' style={{height:'55px',width:'500px',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='new_price' value={newProduct.new_price}  onChange={Change}/><br /><br />
             <label style={{fontSize:'20px',fontFamily:'italic'}} >Product Image</label><br />
-            <input className='shadow' style={{height:'55px',width:'500px',border:'none',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='image' value={newProduct.image}  onChange={Change}/><br /><br />
-            <label  style={{fontSize:'20px',fontFamily:'italic'}} >Product Category</label><br />
-            <input className='shadow' style={{height:'55px',width:'500px',border:'none',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='category' value={newProduct.category}  onChange={Change}/><br /><br />
+            <input className='shadow' style={{height:'55px',width:'500px',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='image' value={newProduct.image}  onChange={Change}/><br /><br />            <label  style={{fontSize:'20px',fontFamily:'italic'}} >Product Category</label><br />
+            <input className='shadow' style={{height:'55px',width:'500px',borderRadius:'18px',border:'2px solid',textAlign:'center'}} type='text' name='category' value={newProduct.category}  onChange={Change}/><br /><br />
             <Button style={{backgroundColor:'grey',border:'none',height:'60px',width:'130px'}} onClick={Submit}>Save</Button>
             </Form>
         </div>
