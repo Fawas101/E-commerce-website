@@ -46,7 +46,7 @@ let all_product = [
   },
   {
     id: 2,
-    name: "Lace-up Front Letter Tape Mesh Panel Sneakers",
+    name: "Lace-up Front Letter Tape Panel Sneakers",
     category: "women",
     image: p2_img,
     new_price: 85.0,
@@ -54,7 +54,7 @@ let all_product = [
   },
   {
     id: 3,
-    name: "Lace-up Front Wide Fit Sneakers SHEIN USA",
+    name: "Lace-up Front Wide  Sneakers SHEIN USA",
     category: "women",
     image: p3_img,
     new_price: 60.0,
@@ -62,7 +62,7 @@ let all_product = [
   },
   {
     id: 4,
-    name: "Lace-up Front Wide Fit Sneakers",
+    name: "Lace-up Front Wide Fit Women Sneakers",
     category: "women",
     image: p4_img,
     new_price: 100.0,
@@ -70,7 +70,7 @@ let all_product = [
   },
   {
     id: 5,
-    name: "Green Hi-Shine Tassel Loafer",
+    name: "Green Hi-Shine Tassel Women's Loafer",
     category: "women",
     image: p5_img,
     new_price: 85.0,
@@ -78,7 +78,7 @@ let all_product = [
   },
   {
     id: 6,
-    name: "Lace-up Mesh Chunky Sneakers",
+    name: "Lace-up Mesh Chunky Women's Sneakers",
     category: "women",
     image: p6_img,
     new_price: 85.0,
@@ -86,7 +86,7 @@ let all_product = [
   },
   {
     id: 7,
-    name: "Letter Graphic Lace-up Front Chunky Sneakers",
+    name: "Graphic Lace-up Front Chunky Sneakers",
     category: "women",
     image: p7_img,
     new_price: 85.0,
@@ -102,7 +102,7 @@ let all_product = [
   },
   {
     id: 9,
-    name: "Fila Ray Tracer Women's Sneakers",
+    name: "Fila White Ray Tracer Women's Sneakers",
     category: "women",
     image: p9_img,
     new_price: 85.0,
@@ -110,7 +110,7 @@ let all_product = [
   },
   {
     id: 10,
-    name: "Tod's loafers",
+    name: "Tod's Brown Women formal,casual loafers",
     category: "women",
     image: p10_img,
     new_price: 85.0,
@@ -118,7 +118,7 @@ let all_product = [
   },
   {
     id: 11,
-    name: "Turquoise Lula Patent Penny Loafers",
+    name: "Turquoise Lula Patent Penny Women Loafers",
     category: "women",
     image: p11_img,
     new_price: 85.0,
@@ -126,7 +126,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Nike Women's Air Max jewell Light Pumice-White",
+    name: "Nike Women's Air Max Light Pumice-White",
     category: "women",
     image: p12_img,
     new_price: 85.0,
@@ -142,7 +142,7 @@ let all_product = [
   },
   {
     id: 14,
-    name: "Classy womens Sneakers",
+    name: "Classy women White Casual sports Sneakers",
     category: "women",
     image: p14_img,
     new_price: 85.0,
@@ -150,7 +150,7 @@ let all_product = [
   },
   {
     id: 15,
-    name: "Chunky Transperent Soul Sneakers",
+    name: "Chunky Transperent Soul Women's Sneakers",
     category: "women",
     image: p15_img,
     new_price: 85.0,
@@ -158,7 +158,7 @@ let all_product = [
   },
   {
     id: 16,
-    name: "Fila Women Purple Disruptor Li Premium Sneakers ",
+    name: "Fila Women Disruptor Li Premium Sneakers ",
     category: "women",
     image: p16_img,
     new_price: 85.0,
@@ -166,7 +166,7 @@ let all_product = [
   },
   {
     id: 17,
-    name: "Chiko Shoes",
+    name: "Chiko women's casual formal sports Shoes",
     category: "women",
     image: p17_img,
     new_price: 85.0,
@@ -174,7 +174,7 @@ let all_product = [
   },
   {
     id: 18,
-    name: "Floral Sneakers Fashion Casual Shoes",
+    name: "Floral Sneakers Fashion Casual sports Shoes",
     category: "women",
     image: p18_img,
     new_price: 85.0,
@@ -182,7 +182,7 @@ let all_product = [
   },
   {
     id: 19,
-    name: "Church's Royal Collection",
+    name: "Church's Royal foral Collections of men's",
     category: "men",
     image: p19_img,
     new_price: 85.0,
@@ -190,7 +190,7 @@ let all_product = [
   },
   {
     id: 20,
-    name: "Classico Oxford Shoes",
+    name: "Classico Oxford formal casual men's Shoes",
     category: "men",
     image: p20_img,
     new_price: 85.0,
@@ -198,7 +198,7 @@ let all_product = [
   },
   {
     id: 21,
-    name: "Men Brown Balmain Unicorn Shoe",
+    name: "Men Brown Balmain Unicorn casual Shoe",
     category: "men",
     image: p21_img,
     new_price: 85.0,
@@ -206,7 +206,7 @@ let all_product = [
   },
   {
     id: 22,
-    name: "Men's Formal Leather Shoes",
+    name: "Men's white Leather Formal Casual Shoes",
     category: "men",
     image: p22_img,
     new_price: 85.0,
@@ -214,7 +214,7 @@ let all_product = [
   },
   {
     id: 23,
-    name: "Nike Overreact Sandal Sneakers",
+    name: "Nike Overreact Sandal sports mens Sneakers",
     category: "men",
     image: p23_img,
     new_price: 85.0,
@@ -222,7 +222,7 @@ let all_product = [
   },
   {
     id: 24,
-    name: "Mens Nike Air Shoes",
+    name: "Mens Nike Air casual sandal sports Shoes",
     category: "men",
     image: p24_img,
     new_price: 85.0,
@@ -230,7 +230,7 @@ let all_product = [
   },
   {
     id: 25,
-    name: "Patent leather shoes",
+    name: "Patent leather casual formal mens shoes",
     category: "men",
     image: p25_img,
     new_price: 85.0,
@@ -238,7 +238,7 @@ let all_product = [
   },
   {
     id: 26,
-    name: "Nike Air Uptempo Shoes",
+    name: "Nike Air Uptempo sandal sports mens Shoes",
     category: "men",
     image: p26_img,
     new_price: 85.0,
@@ -254,7 +254,7 @@ let all_product = [
   },
   {
     id: 28,
-    name: "casual Mens Shoes tenis Luxury",
+    name: "casual Mens freaky Shoes tenis Luxury",
     category: "men",
     image: p28_img,
     new_price: 85.0,
@@ -262,7 +262,7 @@ let all_product = [
   },
   {
     id: 29,
-    name: "Mens Nike Flow",
+    name: "Mens Nike Flow freaky blue sports shoes",
     category: "men",
     image: p29_img,
     new_price: 85.0,
@@ -270,7 +270,7 @@ let all_product = [
   },
   {
     id: 30,
-    name: "Mens Nike Air",
+    name: "Mens Nike Air brown casual sports shoes",
     category: "men",
     image: p30_img,
     new_price: 85.0,
@@ -278,7 +278,7 @@ let all_product = [
   },
   {
     id: 31,
-    name: "Casual British Style Men Oxfords Carved White",
+    name: "Casual British Men Oxfords Carved White",
     category: "men",
     image: p31_img,
     new_price: 85.0,
@@ -286,7 +286,7 @@ let all_product = [
   },
   {
     id: 32,
-    name: " Air Max Men's Sneakers",
+    name: " Air Max Men's yellow casual Sneakers",
     category: "men",
     image: p32_img,
     new_price: 85.0,
@@ -294,7 +294,7 @@ let all_product = [
   },
   {
     id: 33,
-    name: "Barley_Desert Moss_Redstone - Brown",
+    name: "Barley_Desert Moss_Redstone - Brown shoe",
     category: "men",
     image: p33_img,
     new_price: 85.0,
@@ -302,7 +302,7 @@ let all_product = [
   },
   {
     id: 34,
-    name: "Tossu  by Camper",
+    name: "Tossu  by Camper red blue casual sneakers",
     category: "men",
     image: p34_img,
     new_price: 85.0,
@@ -310,7 +310,7 @@ let all_product = [
   },
   {
     id: 35,
-    name: "Ultra Fashion Sneakers",
+    name: "Ultra Fashion grey casual sports Sneakers",
     category: "men",
     image: p35_img,
     new_price: 85.0,
@@ -318,7 +318,7 @@ let all_product = [
   },
   {
     id: 36,
-    name: "Sleek Sustainable Sporty Sneakers",
+    name: "Sleek Sustainable Sporty casual Sneakers",
     category: "men",
     image: p36_img,
     new_price: 85.0,

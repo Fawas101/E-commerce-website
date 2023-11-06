@@ -65,6 +65,7 @@ else{
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam cumque rerum voluptas fugit, ex quod voluptate amet ad, ipsum ratione, vel perferendis! Sit eum, nulla magni alias dolorem dolores ipsum?
             </div>
             <div className="btn">
+                
             <button onClick={()=>{buttonClick (products.id)}} >ADD TO CART</button>
             </div>
             <p className='productdisplay-right-category'><span>Category : </span>Unisex, Casual, Sports</p>

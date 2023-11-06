@@ -21,12 +21,18 @@ const LoginSignup = () => {
 
     if(!refname||!refPass){
       toast.warning ("Please fill all fields")
-    }else{
+      
+    } else if(user.find((usr)=>usr.name===refname)){
+      toast.warning('Username is already exists!')
+    }
+
+    else{
      navigate('/login')
     }
     const value ={name:refname,pass:refPass,email:refEmail}
     setUser([...user,value])
     console.log(user);  
+
   }
 
 
